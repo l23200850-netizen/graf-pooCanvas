@@ -1,0 +1,14 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #222; /* fondo gris oscuro */
+  margin: 0;
+}
+
+canvas {
+  background-color: #333;
+  border: 2px solid white;
+}
+
